@@ -15,7 +15,7 @@ GEM
     linecache (0.43)
     linecache19 (0.5.11)
       ruby_core_source (>= 0.1.4)
-    rake (0.8.7)
+    rake (13.0.3)
     ruby-debug (0.10.3)
       columnize (>= 0.1)
       ruby-debug-base (~> 0.10.3.0)
